@@ -1,0 +1,11 @@
+{
+    "name":"ocr-head",
+    "description":"",
+    "version":"0.0.1",
+    "private":true,
+    "dependencies": {
+        "es6-promise": "*",
+        "fs-extra": "*",
+        "shortid": "*"
+    }
+}
